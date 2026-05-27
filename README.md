@@ -20,6 +20,6 @@ This project was created using `bun init` in bun v1.3.13. [Bun](https://bun.com)
 # Contributors:
 |   Contributors |    Description    |
 | -------------  | ----------------- |
-| [raidzvsm.](https://discord.com/users/1311113093530517507)   | Naming of the bot |
-| [mrbustawhereyouat](https://discord.com/users/998110222642073690) |    |
+| [raidzvsm.](https://discord.com/users/1311113093530517507)   | |
+| [mrbustawhereyouat](https://discord.com/users/998110222642073690) | Naming of the bot   |
 | [fatmonke7408](https://discord.com/users/998110222642073690) | |
